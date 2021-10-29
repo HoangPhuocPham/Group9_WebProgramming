@@ -17,7 +17,7 @@
             <a href="./exercises/ch05_ex01_02/index.jsp">chap 05 (exercises 01 + 02)</a>
         </li>
         <li>
-            <a href="./exercises/ch06_ex01/index.jsp">chap 06 (exercise 01)</a>
+            <a href="./exercises/ch06_ex01_02/index.jsp">chap 06 (exercise 01 + 02)</a>
         </li>
         <li>
             <a href="./exercises/ch07_ex01_02/index.jsp">chap 07 (exercise 01 + 02)</a>
@@ -29,6 +29,7 @@
             <a href="./exercises/ch08_ex01/index.jsp">chap 08 (exercise 01)</a>
         </li>
     </ul>
+    <a href="https://drive.google.com/drive/folders/15kuZTc6l7mB2yETKKW33enCmJkyigQ5i?usp=sharing">link code</a>
 </body>
 
 </html>
