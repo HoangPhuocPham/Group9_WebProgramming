@@ -29,7 +29,16 @@
             <a href="./exercises/ch08_ex01/index.jsp">chap 08 (exercise 01)</a>
         </li>
     </ul>
-    <a href="https://drive.google.com/drive/folders/15kuZTc6l7mB2yETKKW33enCmJkyigQ5i?usp=sharing">link code</a>
+    <h3>link code</h3>
+    <div>
+        <a href="https://drive.google.com/drive/folders/15kuZTc6l7mB2yETKKW33enCmJkyigQ5i?usp=sharing">drive</a>
+    </div>
+    <div>
+        <a
+            href="https://github.com/HoangPhuocPham/Group9_WebProgramming?fbclid=IwAR3cZ0fhEwmL8hrSU17I0cLW_bLeLz7W8k1I0b4pHcY_CzoI1VGf2fUW4ZM">
+            github
+        </a>
+    </div>
 </body>
 
 </html>
